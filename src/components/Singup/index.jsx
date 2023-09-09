@@ -21,7 +21,8 @@ const Signup = () => {
 		e.preventDefault();
 		try {
 			// const url = "http://localhost:8080/api/users";
-			const url = "https://login-logout-seven.vercel.app/api/users";
+			// const url = "https://login-logout-seven.vercel.app/api/users";
+			const url = "https://login-logout-qfyf.onrender.com/api/users";
 			// const url = "https://login-logout-62633.web.app/signup";
 			const { data: res } = await axios.post(url, data);
 			navigate("/login");

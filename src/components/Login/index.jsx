@@ -15,7 +15,8 @@ const Login = () => {
 		e.preventDefault();
 		try {
 			// const url = "http://localhost:8080/api/auth";
-			const url = "https://login-logout-seven.vercel.app/api/auth";
+			// const url = "https://login-logout-seven.vercel.app/api/auth";
+			const url = "https://login-logout-qfyf.onrender.com/api/auth";
 			// const url = "https://login-logout-62633.web.app/login";
 			const { data: res } = await axios.post(url, data);
 			localStorage.setItem("token", res.data);
