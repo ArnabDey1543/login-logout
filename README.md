@@ -17,6 +17,6 @@ npm i
 
 
 ## Screenshots
-Mern-authentication
+
 ![Screenshot 2023-09-09 151322](https://github.com/ArnabDey1543/login-logout/assets/81821430/15f4c267-ebe6-419c-bb67-a788ef1fafd6)
 ![image](https://github.com/ArnabDey1543/login-logout/assets/81821430/654b74dc-64c0-4b05-b3fe-2e63135d6ca3)
